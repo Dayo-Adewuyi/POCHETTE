@@ -3,7 +3,7 @@
 pragma solidity 0.8.23;
 
 struct AppStorage {
-// shared state variables go here   
+uint test;
 }
 
 library LibAppStorage {
